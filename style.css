@@ -52,3 +52,19 @@ body{
     border-right: 4px solid var(--botão-inativo);
     border-top: none;
 }
+
+.botao::first-chird{
+    border-radius: 40px 40px 0 0;
+}
+
+.botoes {
+    display: block;
+    }
+
+    @media screen and (min-width: 768px) {
+      .botoes{
+        display: flex;
+      }
+    }
+        
+    }
