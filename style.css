@@ -10,7 +10,7 @@
 }
 
 body{
-    background-color: #1E1E1E;
+    background-color: var(--cor-de-fundo);
     color: var(--branco);
     font-family:'chakra petch', sans-serif;
 }
@@ -26,3 +26,8 @@ body{
     margin: 0 auto;
 }
 
+.titulo-principal{
+    text-align: left;
+    width: 100%;
+    font-size: 32px;
+}
