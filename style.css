@@ -37,3 +37,11 @@ body{
     color: var(--Verde);
 }
 
+.botao{
+    font-family: "crakra Petch", sans-serif;
+    background-color: var(--botão-inativo);
+    color: var(--branco);
+    display: flex;
+    justify-content: center;
+    padding: 1em;;
+}
