@@ -74,7 +74,15 @@ body{
         display: none;
     }
 
-    
+    .aba-conteudo-titulo-principal{
+        font-size: 28px;
+        text-align: center;
+    }
+    .aba-conteudo-titulo-secundario{
+        text-align: center;
+        color: var(--verde);
+        text-transform: uppercase;
+    }
 
       .abas-textos{
          background-color: var(--texto-fundo);
@@ -97,13 +105,5 @@ body{
         }
     }
     
-    .aba-conteudo-titulo-principal{
-        font-size: 28px;
-        text-align: center;
-    }
-    .aba-conteudo-titulo-secundario{
-        text-align: center;
-        color: var(--verde);
-        text-transform: uppercase;
-    }
+    
     
